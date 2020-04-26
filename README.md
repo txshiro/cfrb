@@ -1,2 +1,2 @@
-# discordbot
-A set of commands for discord bot.
+# Custom commands for discord bot
+You can contact me at discord: txshiro#0612
