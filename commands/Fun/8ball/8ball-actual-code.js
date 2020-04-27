@@ -5,6 +5,7 @@ module.exports.run = async(bot, message, args) => {
 
     //Checking first argument
     if(!args[0]) return message.reply("You need to ask something");
+    if(args[0] === message.mentions.members.first()) return message.reply("You need to ask a question, not tag a user")
 
     //You can add more answers here
     let answers = ["No, I don't think so.", 'Maybe.','Yes.', '100%.','Totally yes.',"I don't know.",'What is that question ?','Leave me alone.','Ask your parents .'];
