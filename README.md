@@ -13,6 +13,7 @@ I'm not going to teach you how to install and setup bot. If you haven't do that 
 
 - You need to put your [bot's token](https://discordapp.com/developers/applications) in `json/config.json`
 - You need to change the prefix as well.
+- You need to download [fs-readdir-recursive](https://www.npmjs.com/package/fs-readdir-recursive) and [mongoose](https://www.npmjs.com/package/mongoose)
 
 ## Setuping MongoDB Databse
 - Create account at [MongoDB website](https://www.mongodb.com/).
