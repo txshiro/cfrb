@@ -4,7 +4,7 @@
 const Discord = require('discord.js');
 
 //Requiring colors.json
-const colors = require("../../json/colors.json")
+const colors = require("../../../json/colors.json")
 
 module.exports.run = async(bot, message, args) => {
     //Creating array of gifs
