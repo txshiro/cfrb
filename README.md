@@ -4,9 +4,9 @@ CFRB (Commands for discord bot) is a project in which I show how to create comma
 In this Discord.js project I'm using MongoDB Database so if you don't have that set up you can read below how do it. And if you don't want MongoDB database then you just can modify the code.
 I always add example.js and a actual-code.js. You can also use this as a reference for your code. It's up to you! If you need help with anything or just want to talk then you can join my [discord server](https://discord.gg/9Rp6JkV)
 
-- example.js - basic structure of the code, so you can modify it as much as you want.
+- example-code.js - basic structure of the code, so you can modify it as much as you want.
 
-- actual-code - you can use this code if you are using this project command handler and you have setup a MongoDB database.
+- actual-code.js - you can use this code if you are using this project command handler and you have setup a MongoDB database.
 
 ## Installation
 I'm not going to teach you how to install and setup bot. If you haven't do that already watch [this video](https://www.youtube.com/watch?v=X_qg0Ut9nU8).

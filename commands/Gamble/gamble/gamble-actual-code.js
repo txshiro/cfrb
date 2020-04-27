@@ -8,7 +8,7 @@ const Discord = require('discord.js');
 const mongoose = require('mongoose'); 
 
 //Require botconfig in which i have mongaPass
-const botconfig = require(".././/json/botconfig.json")
+const botconfig = require("../../../json/botconfig.json")
 
 //connecting to mongoose database
 mongoose.connect(botconfig.mongoPass, {
@@ -17,7 +17,7 @@ mongoose.connect(botconfig.mongoPass, {
 });
 
 //requiring Data which i have in models folder
-const Data = require("../../models/data.js");
+const Data = require("../../../models/data.js");
 
 module.exports.run = async(bot,message,args) =>{
 
