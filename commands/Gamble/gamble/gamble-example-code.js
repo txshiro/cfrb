@@ -1,3 +1,5 @@
+//IF YOU HAVE ANY PROBLEMS JOIN MY DISCORD https://discord.gg/YuzGfvf
+
 //Requiring discord.js
 const Discord = require('discord.js');
 
@@ -10,7 +12,6 @@ bot.on('message', message =>{
 	
 	//Declaring arguments
 	const args = message.content.slice(prefix.length).split(' ');
-	const command = args.shift().toLowerCase();
 	
 	//Checking if the message is "!gamble"
 	if (message.content === '!gamble') {	

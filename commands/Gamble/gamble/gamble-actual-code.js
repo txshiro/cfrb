@@ -8,7 +8,7 @@ const Discord = require('discord.js');
 const mongoose = require('mongoose'); 
 
 //Require botconfig in which i have mongaPass
-const botconfig = require("../../json/botconfig.json")
+const botconfig = require(".././/json/botconfig.json")
 
 //connecting to mongoose database
 mongoose.connect(botconfig.mongoPass, {
@@ -232,6 +232,6 @@ module.exports.run = async(bot,message,args) =>{
 }
 
 module.exports.help ={
-name: "aha",
+name: "gamble",
 aliases: []
 }
