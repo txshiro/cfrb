@@ -37,4 +37,3 @@ I hope you get the idea.
 ## Usage
 
 You can just copy the code inside your own .JS file. I'm also explaining staff in the code.
-I also use this commands for my bot Tokaki. You can add the bot to your server [here](https://discordapp.com/oauth2/authorize?client_id=694857173595062354&scope=bot&permissions=482700406)
