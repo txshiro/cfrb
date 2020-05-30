@@ -1,7 +1,3 @@
-<a href="https://top.gg/bot/694857173595062354" >
-  <img src="https://top.gg/api/widget/status/694857173595062354.svg" alt="Totaki" />
-</a>
-
 # CFRB
 
 CFRB (Commands for discord bot) is a project in which I show how to create commands.
