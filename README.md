@@ -19,6 +19,7 @@ I'm not going to teach you how to install and setup bot. If you haven't do that 
 - Create account at [MongoDB website](https://www.mongodb.com/).
 - Go to `Database Access => Add new Database User => [Create User](https://i.imgur.com/d25YZ7z.png)
 - Create `Clusters => Create Cluster => Sandbox (The free one) => Select your region => Create`
+- Go to `Network Access => Add IP address => Confirm` (It should automatically whitelist your IP)
 - Click on `CONNECT => Connect with your application => Set driver to Node.js => Click on Copy`. Now you need to go into "json/botconfig.json" and change the mongoPass to the url you copied
 
 !BE CAREFUL!
