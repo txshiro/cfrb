@@ -102,7 +102,7 @@ module.exports.run = async(bot,message,args) =>{
                 let chances = ["win", "lose"];
 
                 //Now we calculate the pick with percentage
-                var pick = chances[Math.floor(Math.random()* chances.length)] + Math.random * 100;
+                var pick = chances[Math.floor(Math.random()* chances.length)] + Math.random() * 100;
                 
 
                 /*Switch is just IF STATEMENT without the statement.
