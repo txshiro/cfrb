@@ -31,6 +31,4 @@ mongodb+srv://txshiro:txshiro1 //rest of the url
 `
 
 I hope you get the idea.
-## Usage
 
-You can just copy the code inside your own .JS file. I'm also explaining staff in the code.
