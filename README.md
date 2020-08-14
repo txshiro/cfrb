@@ -2,7 +2,7 @@
 
 CFRB (Commands for discord bot) is a project in which I show how to create commands.
 In this Discord.js project I'm using MongoDB Database so if you don't have that set up you can read below how do it. And if you don't want MongoDB database then you just can modify the code.
-I always add example.js and a actual-code.js. You can also use this as a reference for your code. It's up to you! If you need help with anything or just want to talk then you can join my [discord server](https://discord.gg/9Rp6JkV)
+I always add example.js and a actual-code.js. You can also use this as a reference for your code. It's up to you! I
 
 - example-code.js - basic structure of the code, so you can modify it as much as you want.
 
